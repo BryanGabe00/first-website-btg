@@ -4,5 +4,23 @@
 	<head>
 		<title> Hello World </title>
 	</head>
+	<ul id="bryan"></ul>
+        <script> 
+                 var bryan = {
+                      "firstName": "Bryan",
+                      "lastName": "Gabe",
+                      "age": 18,
+                      "major": "Computer Science",
+                      "concentration": ["Cyber Security", "Video-Game Programming"],
+                      "FavoriteSuperhero": "Iron Man"
+                 }
+				 
+				 document.getElementById("bryan").innerHTML = `
+				<h1>${bryan.firstName} ${bryan.lastName}</h1>
+				<li>Age: ${bryan.age}</li>
+                <li>Concentration: ${bryan.concentration}</li>
+                <li>Favorite Superhero: ${bryan.FavoriteSuperhero}</li>
+				`
+        </script>
 	<body> This is Bryan Gabe's first website Version 2</body>
 </html>
