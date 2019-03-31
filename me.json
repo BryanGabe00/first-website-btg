@@ -1,0 +1,8 @@
+{
+  “firstName”: “Bryan”,
+  “lastName”: “Gabe”,
+  “age”: 18,
+  "major": "Computer Science",
+  “concentration”: [“Cyber Security”, “Video-Game Programming”],
+  "Favorite Superhero": "Iron Man"
+}
