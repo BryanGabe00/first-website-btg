@@ -1,8 +1,10 @@
 {
-  "firstName": "Tony",
-  "lastName": "Stark",
-  "age": 53,
-  "preferredName": "Iron Man",
-  "favoriteHobby": "Saving the world",
-  "seatLocation": 16
+
+    "firstName": "Tony",
+    "lastName": "Stark",
+    "preferredName": "Iron Man",
+    "email": "tonystark@ironman.com",
+    "city": "New York",
+    "state": "NY",
+    "favoriteHobby": "Being Iron Man",
 }

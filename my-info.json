@@ -1,8 +1,12 @@
 {
-  "firstName": "Bryan",
-  "lastName": "Gabe",
-  "age": 18,
-  "preferredName": "Bryan",
-  "favoriteHobby": "Music",
-  "seatLocation": 25
+
+    "firstName": "Bryan",
+    "lastName": "Gabe",
+    "preferredName": "Bryan",
+    "email": "bgabe@lewisu.edu",
+    "phoneNumber": "555-555-5555",
+    "city": "Bourbonnais",
+    "state": "IL",
+    "favoriteHobby": "Music",
+    "seatLocation": "11"
 }
